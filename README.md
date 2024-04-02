@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b18a&show_icons=true&locale=en" alt="b18a" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b18a&label=Profile%20views&color=0e75b6&style=flat" alt="b18a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b18a&label=Profile%20views&color=0e75b6&style=flat&theme=dark&hide" alt="b18a" /> </p>
