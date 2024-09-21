@@ -20,6 +20,11 @@
 <p align="center">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/Git.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/arduino.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/bash.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/c.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/cpp.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/docker.svg" width="50" height="50">
 </p>
 
 
