@@ -19,6 +19,7 @@
 
 <p align="center">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/git.svg" width="50" height="50">
 </p>
 
 
