@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
 
-- 🌱 I’m currently learning **C and C++ @ 42Heilbronn**
+- 🌱 I’m currently learning **C and C++ @ 42Heilbronn**  
 	My progress so far:
 	-	**[Libft](https://github.com/B18a/42_libft)**				: Your very first own library - This project is about coding a C library
 	-	**[ft_printf](https://github.com/B18a/42_ft_printf)**		: Recoding printf to discover variadic functions in C
