@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreas</h1>
 
-- 🌱 I’m currently learning **c and c++ @ 42Heilbronn**
+- 🌱 I’m currently learning **C and C++ @ 42Heilbronn**
 	My progress so far:
 	-	**Libft**			: Your very first own library - This project is about coding a C library
 	-	**ft_printf**		: Recoding printf to discover variadic functions in C
@@ -11,7 +11,7 @@
 	-	**so_long**			: This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements using minilibx-library
 	-	**Philosophers**	: Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger
 	-	**minishell**		: This project is about creating a simple shell
-	-	**CPP00-04**		: Getting started with CPP - basic syntax, pointers and references, polymorphism, overloads, orthodox canonical classes, inheritance,polymorphism, abstract classes and interfaces
+	-	**C++ Module00-04**	: Getting started with C++ - basic syntax, pointers and references, polymorphism, overloads, orthodox canonical classes, inheritance,polymorphism, abstract classes and interfaces
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
