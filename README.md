@@ -11,9 +11,11 @@
 	-	**[so_long](https://github.com/B18a/42_so_long)**			: This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements using minilibx-library
 	-	**[Philosophers](https://github.com/B18a/42_philo)**		: Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger
 	-	**[minishell](https://github.com/B18a/42_minishell)**		: This project is about creating a simple shell - similar to Bash
-	-	**[C++ Module00-04](https://github.com/B18a/42_cpp)**		: Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces  
+	-	**[C++ Module00-04](https://github.com/B18a/42_cpp)**		: Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces
+   
 	Current Project:  
-	-	**[Cub3D] : My first RayCaster with miniLibX  
+	-	**[Cub3D] : My first RayCaster with miniLibX
+   
 	Upcoming Project:  
 	-	**[Inception] : One Container is not enough - We need to go deeper
 	-	**[Webserv] : This is when you finally understand why a URL starts with HTTP
