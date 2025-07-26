@@ -4,7 +4,7 @@
 - My 42 Projects can be seen here : https://github.com/B18a/42Heilbronn
 	
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p>
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/C.svg" width="50" height="50">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/CPP.svg" width="50" height="50">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/Git.svg" width="50" height="50">
