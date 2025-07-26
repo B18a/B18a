@@ -20,8 +20,8 @@
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50">
-<!--   <img src="" width="50" height="50">
-  <img src="" width="50" height="50"> -->
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/HTML.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/CSS.svg" width="50" height="50">
 </p>
 
 
