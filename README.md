@@ -15,6 +15,13 @@
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/Bash-Dark.svg" width="50" height="50">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/Docker.svg" width="50" height="50">
   <img src="https://github.com/B18a/skill-icons/blob/main/icons/Linux-Dark.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50">
+  <img src="https://github.com/B18a/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50">
+<!--   <img src="" width="50" height="50">
+  <img src="" width="50" height="50"> -->
 </p>
 
 
